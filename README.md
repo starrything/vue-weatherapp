@@ -1,24 +1,8 @@
-# vue-weatherapp
+# Overview
+> 간단한 날씨 앱 프로젝트입니다.  
 
-## Project setup
-```
-npm install
-```
+# Feature
+> 도시명을 파라미터로 전달하여 날씨를 조회합니다.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Clone from.
+<a href="https://github.com/malin-nilsson/WeatherApp">WeatherApp@malin-nilsson</a>
